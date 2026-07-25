@@ -30,7 +30,7 @@ Output
 3. COUNT()
 Purpose
 
-Counts cells containing numbers.
+Counts cells containing numbers
 
 Formula
 =COUNT(C2:C6)
