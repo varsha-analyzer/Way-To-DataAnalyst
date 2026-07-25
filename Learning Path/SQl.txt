@@ -49,7 +49,7 @@ df
 OUTPUT:
 
 
-     StudentID	Name	Age	Department
+     StudentID	Name	Age Department
 
 0	1	Varsha	21	IT
 
