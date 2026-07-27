@@ -112,7 +112,7 @@ A professional data model.
 
           Products
               
-Customers ---- Sales ---- Calendar
+Customers ---- Sales ---- Calender
               
           Locations
 Sales = Fact Table
