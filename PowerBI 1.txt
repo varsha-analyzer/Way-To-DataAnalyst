@@ -10,7 +10,7 @@ Data View
 Model View
 2. Import Data
 
-Practice importing data from
+Practice importing data from 
 
 Excel (.xlsx)
 CSV (.csv)
